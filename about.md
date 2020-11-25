@@ -14,4 +14,4 @@ You can cite the project as:
 ## Contact us
 
 - Email: [team@my.research.org](mailto:team@my.research.org)
-- Twitter: [@my_research_project](https://twitter.co
+- Twitter: {{twitter}}
