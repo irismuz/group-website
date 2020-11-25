@@ -28,3 +28,10 @@ are caused by two trailing spaces at the end of the line.
 3. Third
 
 [Image](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
+
+# My research project
+
+## Description
+This project is all about teaching you how to create websites with GitHub Pages.
+
+More details about the projcest are available [About page](about.md)
